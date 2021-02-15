@@ -53,8 +53,6 @@ public class toy
                ".\n\nMy breed,weight and colors are =  " +
                this.getBreed()+"," + this.getWeight()+
                " ,"+ this.getColor());
-
-
     }
  
     public static void main(String[] args)
